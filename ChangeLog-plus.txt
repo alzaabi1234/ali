@@ -1,4 +1,4 @@
-{"version_code":451193,"content":"
+{"version_code":451192,"content":"
 <p>تـحديث 9.10</p>
 
 <font color="red"><b>التحديث يحتوي على اصلاحات و استقرار النسخة</b></font>
