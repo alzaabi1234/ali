@@ -22,5 +22,5 @@
 <li> Fixed Toast Background and Text Color for Nougat</li>
 <li> Other Fixes</li>
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
 }
