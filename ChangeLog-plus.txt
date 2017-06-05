@@ -1,8 +1,9 @@
 {"version_code":451192,"content":"
-<p>تحديث 9.10</p>
+<p>9.10 اصـدار</p>
+<p>Version 9.10</p>
 <br/>
-<p>V9.10</p>
-<br/>
+<p>مـاالجـديـد</p>
+
 <li>نسخة مبنية على اصدار 2.17.146</li>
 
 <li>إمكانية إرسال البرامج والالعاب وكافة انواع الملفات</li>
@@ -30,26 +31,45 @@
 <li>إصلاح عدم ظهور القفل عند فتح الواتساب من الويدجت</li>
 
 <li>إصلاحات اخرى</li>
-<br/>
-<br/>
+
+
+<p>changelog</p>
+
 <li>New Base Updated to 2.17.146 (Playstore) </li>
+
 <li>Added Ability to Send All Files (Eg. Apk, etc) </li>
+
 <li>send Video at status without time border (Attention: Just Will appear without border Users WhatsApp Ali Al-Zaabi ,, 30 a second Users WhatsApp official & Other) </li>
+
 <li>Unlocked Pin Chats</li>
+
 <li>(Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
+
 <li>(Exclusive) Show Contacts Tab in Different Style (Mod 6.8)</li>
+
 <li>(Exclusively) Added Attach Icon in Header (in New UI, it was removed by default) </li>
+
 <li>Added Option to Change Pattern to Hide Chats (Go to Hide Chat List & Click on Gear icon on Top right)</li>
+
 <li>Added Option to Hide Attach Icon from Header (Mod 1.1.14)</li>
+
 <li>Added Option to Hide Attach Icon from Stock Entry Style (Mod 1.2.44)</li>
+
 <li>Added Color to the Document Text (will be same as Hyperlink) </li>
+
 <li>Fixed Show Contact Status (Mod 2.2.2)</li>
+
 <li>Fixed Heads-up Notifications for Nougat (Mod 6.11)</li>
+
 <li>Fixed Pattern Not Showing for Some Phones When Hide Chats</li>
+
 <li>Fixed Voice Note Time Color </li>
+
 <li>Fixed Button Delete Background</li>
+
 <li>Fixed WhatsApp Lock</li>
+
 <li>Other Fixes</li>
 
-","url":"http://www.mediafire.com/file/pditf050gu6cjaw/WA%2B_v9.10_By.Ali+Alzaabi.apk"
+","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
 }
