@@ -1,31 +1,90 @@
-{"version_code":451192,"content":"
-<p>تحديث 9.10</p>
-<p>v9.10</p>
+{"version_code":451194,"content":"
+<p>تحديث 9.20</p>
+<p>v9.20</p>
 
 <br/>
-<li>نسخة مبنية على اصدار 2.17.146</li>
+<li>نسخة مبنية على اصدار 2.17.223</li>
 <br/>
-<li>[اضافة] إمكانية إرسال البرامج والالعاب وكافة انواع الملفات ( Apk , zip , والمزيد )</li>
+<li>إمكانية تغيير خط البرنامج تم اضافة 30 خط (من الاضافات والخصائص - تغيير خط البرنامج 11)</li>
 <br/>
-<li>[اضافة] يمكنك تثبيت اي دردشة في اعلى قائمة الدردشات لكي تصل اليها بسهولة</li>
+<li>إمكانية إرسال رسائل مجدولة (قم بكتابة رسالة وحدد موعد ارسال الرسالة وسيتم ارسالها تلقائيا) افتح الواتس ثم خيارات ثم رسالة مجدولة</li>
+<br/>
+<li>إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري) فعل الخيار 2.5.8</li>
+<br/>
+<li>يمكنك الان تعديل الصور قبل ارسالها من المعرض</li>
+<br/>
+<li>يمكنك الان تحديد مجموعة من الفيديوهات وإرسالها بوقت واحد/li>
+<br/>
+<li>إمكانية مشاهدة الحالات التي قمت بمشاهدتها سابقا من خلال الذهاب ل (الستوري - خيارات - عرض الحالات المشاهدة)</li>
+<br/>
+<li>الخيار رقم 2.4.15 لتغيير لون اسم قائمة الرسائل الجماعية عند إعادة توجيه رسالة ما</li>
+<br/>
+<li>الخيار رقم 1.2.58 لتغيير لون المنشن في المحادثة</li>
+<br/>
+<li>الخيار رقم 1.2.59 لتغيير لون ايقونة الرسائل الجماعية في المحادثة</li>
+<br/>
+<li>الخيار رقم 2.2.36 لتغيير لون المنشن في شاشة الدردشات</li>
+<br/>
+<li>الخيار رقم 1.2.60 لتغيير لون هنالك رسائل غير مقروءة في المحادثة</li>
+<br/>
+<li>الخيار رقم 1.2.61 لتغيير لون فقاعة هنالك رسائل غير مقروءة في المحادثة</li>
+<br/>
+<li>الخيار رقم 1.2.62 لتغيير لون خلفية هنالك رسائل غير مقروءة في المحادثة</li>
+<br/>
+<li>إمكانية إرسال مقطع فيديو بحجم يصل حتى 50 ميغا بدلا من 30 ميغا</li>
+<br/>
+<li>(حصريا) إمكانية الذهاب الى الرسالة الاولى في المحادثة(افتح اي محادثة ثم زر الخيارات ثم الذهاب للرسالة الاولى)</li>
+<br/>
+<li>إمكانية تحميل اي صورة او مقطع فيديو من الستوري (قسم الحالة) بشكل مباشر</li>
 <br/>
 <li>إضافة الخيار رقم 2.2.5A لتغيير لون اسم قائمة الرسائل الجماعية في شاشة الدردشات الرئيسية</li>
 <br/>
-<li>[اضافة] إمكانية تثبيت اكثر من 3 محادثات</li>
+<li>إمكانية الضغط على روابط الحالة (الستوري)</li>
 <br/>
-<li>[اضافة] فيسات Android O (يمكنك تغيير من خلال دخول اعدادات بلس ثم خيار رقم 10  )/li>
+<li>عند البحث على محادثة يمكنك إخفائها الان</li>
 <br/>
-<li>[اضافة] يمكنك ارسال فيديو في الحالة (الستوري) بلا حدود الوقت (ملاحظة: راح يظهر بلا حدود لمستخدمين نسختي فقط ,, اما نسخ الاخرى سيظهر 30 ثانية الاولى )</li>
-<br/>
-<li>والمزيد من المميزات اكتشفها بنفسم</li>
+<li>تحسينات واصلاحات اخرى</li>
 
 <br/>
-<li> New Base Updated to 2.17.146 (Playstore)</li>
-<li> Added Ability to Send All Files (Eg. Apk, etc) </li>
-<li> send Video at status without time border (Attention: Just Will appear without border Users WhatsApp Ali Al-Zaabi ,, 30 a second Users WhatsApp official & Other) </li>
-<li> Unlocked Pin Chats</li>
-<li> (Exclusive) Ability to Pin More Than 3 Chats (Default is 3)</li>
-<li> More From Advantages Discover them</li>
+<li>New Updated Base to 2.17.223 (Playstore)</li>
+<br/>
+<li>Super Exclusive Message Scheduler (Open Options on Main Screen & Select Message Scheduler) </li>
+<br/>
+<li>Added in Exclusive Way Ability to Change Fonts (App Size Remains the Same as We have made it Online for Selecting Fonts) (Mod 11) (For first time, it will take bit time)</li>
+<br/>
+<li>Exclusive Toast When Anyone Views your Status/Story (Mod 2.5.8)</li>
+<br/>
+<li>Ability to send multiple videos at the same time</li>
+<br/>
+<li>Added Doodle (Now add edit pics with emojis & text) when choose pic from Gallery</li>
+<br/>
+<li> Updated Now Status/Story will directly download when click on download</li>
+<br/>
+<li>Added View all Status as a list (go to Status Tab and click Options)</li>
+<br/>
+<li>Added Option to Change Mention Color in Chat Screen (Mod 1.2.58)</li>
+<br/>
+<li>Added Option to Change Mention Color on Main Screen (Mod 2.2.36)</li>
+<br/>
+<li>Added Option to Change Color of Broadcast List when Forward Msg (Mod 2.4.15)</li>
+<br/>
+<li>Added Option to Change Color of Broadcast Icon (Mod 1.2.59)</li>
+<br/>
+<li>Added Option to Change Color of Unread Message in Chat Screen (Mod 1.2.59 to Mod 1.2.61)</li>
+<br/>
+<li>Fixed WAMOD Entry Style</li>
+<br/>
+<li>Increased video sending limit to 50MB</li>
+<br/>
+<li>(Exclusive) Option To Go To First Message of the Chat (Open Any Chat - Click Option and Go To First Message) </li>
+<br/>
+<li>Added Option To Download Status Directly and View Status (Now You can Download Status Directly)</li>
+<br/>
+<li>Now You can Click on Links in Caption of Status</li>
+<br/>
+<li>Added Color To Broadcast List on Main Screen (Mod 2.2.5A)</li>
+<br/>
+<li>Other Fixes</li>
 
-","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
+","url":"http://www.mediafire.com/file/p1pdqv4ebepb06c/WA%2B_v9.20_By.Ali+Alzaabi.apk"
 }
