@@ -1,90 +1,62 @@
-{"version_code":451194,"content":"
-<p>تحديث 9.20</p>
-<p>v9.20</p>
+{"version_code":451197,"content":"
+<p>تحديث اجباري</p>
+
+<p>اصدار 9.30</p>
+<p>v9.30</p>
 
 <br/>
-<li>نسخة مبنية على اصدار 2.17.223</li>
+<li>النسخة مبنيه على اصدار 2.17.351</li>
 <br/>
-<li>إمكانية تغيير خط البرنامج تم اضافة 30 خط (من الاضافات والخصائص - تغيير خط البرنامج 11)</li>
+<li>يمكنك إستعادة اي رسالة بعد إرسالها وسيتم حذفها من كل الاجهزة التي ارسلت لها</li>
 <br/>
-<li>إمكانية إرسال رسائل مجدولة (قم بكتابة رسالة وحدد موعد ارسال الرسالة وسيتم ارسالها تلقائيا) افتح الواتس ثم خيارات ثم رسالة مجدولة</li>
+<li>يمكنك الان تعطيل التحميل التلقائي للوسائط لكل محادثة على حدى (افتح بروفايل اي محادثة ثم اختر التنزيل التلقائي للوسائط)</li>
 <br/>
-<li>إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري) فعل الخيار 2.5.8</li>
+<li>يمكنك الان ارسال رسالة او الاتصال برقم غير محفوظ في جهازك مثل تطبيق الفايبر (اذهب الى قسم المكالمات ثم اضغط على الزر العائم)</li>
 <br/>
-<li>يمكنك الان تعديل الصور قبل ارسالها من المعرض</li>
+<li>إضافة الخيار رقم 5.5 لارسال الصور بالحجم والجودة الاصلية</li>
 <br/>
-<li>يمكنك الان تحديد مجموعة من الفيديوهات وإرسالها بوقت واحد/li>
+<li>إمكانية إخفاء انك شاهدت حالة محادثة معينة(افتح بروفايل اي محادثة ثم الخصوصية)</li>
 <br/>
-<li>إمكانية مشاهدة الحالات التي قمت بمشاهدتها سابقا من خلال الذهاب ل (الستوري - خيارات - عرض الحالات المشاهدة)</li>
+<li>إمكانية اختيار مشغل الفيديو من خلال الخيار رقم 6.19</li>
 <br/>
-<li>الخيار رقم 2.4.15 لتغيير لون اسم قائمة الرسائل الجماعية عند إعادة توجيه رسالة ما</li>
+<li>الان عند استقبال او ارسال عدة صور سيتم تجميعهم في البوم</li>
 <br/>
-<li>الخيار رقم 1.2.58 لتغيير لون المنشن في المحادثة</li>
+<li>إضافة الخيار رقم 6.17 لتعطيل عداد الرسائل على ايقونة البرنامج</li>
 <br/>
-<li>الخيار رقم 1.2.59 لتغيير لون ايقونة الرسائل الجماعية في المحادثة</li>
+<li>إضافة الخيار رقم 6.18 لاختيار محرك البحث الخاص بالصور المتحركة Giphy - Tenor</li>
 <br/>
-<li>الخيار رقم 2.2.36 لتغيير لون المنشن في شاشة الدردشات</li>
+<li>يمكنك الان العثور على الفيسات عبر البحث عنها</li>
 <br/>
-<li>الخيار رقم 1.2.60 لتغيير لون هنالك رسائل غير مقروءة في المحادثة</li>
+<li>تصميم جديد لواجهة المكالمات</li>
 <br/>
-<li>الخيار رقم 1.2.61 لتغيير لون فقاعة هنالك رسائل غير مقروءة في المحادثة</li>
+<li>يمكنك الان تعديل الرسالة المجدولة بعد جدولتها</li>
 <br/>
-<li>الخيار رقم 1.2.62 لتغيير لون خلفية هنالك رسائل غير مقروءة في المحادثة</li>
+<li>يمكنك الان وضع حالة كتابية (الستوري)</li>
 <br/>
-<li>إمكانية إرسال مقطع فيديو بحجم يصل حتى 50 ميغا بدلا من 30 ميغا</li>
+<li>يمكنك الآن إرسال رسالة جماعية للمجموعات</li>
 <br/>
-<li>(حصريا) إمكانية الذهاب الى الرسالة الاولى في المحادثة(افتح اي محادثة ثم زر الخيارات ثم الذهاب للرسالة الاولى)</li>
-<br/>
-<li>إمكانية تحميل اي صورة او مقطع فيديو من الستوري (قسم الحالة) بشكل مباشر</li>
-<br/>
-<li>إضافة الخيار رقم 2.2.5A لتغيير لون اسم قائمة الرسائل الجماعية في شاشة الدردشات الرئيسية</li>
-<br/>
-<li>إمكانية الضغط على روابط الحالة (الستوري)</li>
-<br/>
-<li>عند البحث على محادثة يمكنك إخفائها الان</li>
-<br/>
-<li>تحسينات واصلاحات اخرى</li>
+<li>و المزيد من الاضافات .. تابع سجل التغييرات</li>
 
 <br/>
-<li>New Updated Base to 2.17.223 (Playstore)</li>
+<li>New Base Updated to 2.17.351 (PlayStore)</li>
 <br/>
-<li>Super Exclusive Message Scheduler (Open Options on Main Screen & Select Message Scheduler) </li>
+<li>Enable Recall feature(Now you can delete sent messages) (Select any message - open options and click recall)</li>
 <br/>
-<li>Added in Exclusive Way Ability to Change Fonts (App Size Remains the Same as We have made it Online for Selecting Fonts) (Mod 11) (For first time, it will take bit time)</li>
+<li>Exclusive Added Dialer FAB on Calls Tab using which You can send Msg and Call to unsaved Nos. (Go to Calls Tab and Press the FAB for Keypad)</li>
 <br/>
-<li>Exclusive Toast When Anyone Views your Status/Story (Mod 2.5.8)</li>
+<li>Super Exclusive Custom Media Auto-Download ( Now you can choose for which particular contact or group you want auto download)</li>
 <br/>
-<li>Ability to send multiple videos at the same time</li>
+<li>Exclusive Custom Privacy for Hide View Status</li>
 <br/>
-<li>Added Doodle (Now add edit pics with emojis & text) when choose pic from Gallery</li>
+<li>Exclusively Back Now You can Play Videos in your Favourite external app (MX or any other) (Mod 6.19)</li>
 <br/>
-<li> Updated Now Status/Story will directly download when click on download</li>
+<li>Added Option to send Original Images(5.5)</li>
 <br/>
-<li>Added View all Status as a list (go to Status Tab and click Options)</li>
+<li>Unlocked Album Feature when send more than 3 Images</li>
 <br/>
-<li>Added Option to Change Mention Color in Chat Screen (Mod 1.2.58)</li>
+<li>Now you can upload Text Status</li>
 <br/>
-<li>Added Option to Change Mention Color on Main Screen (Mod 2.2.36)</li>
-<br/>
-<li>Added Option to Change Color of Broadcast List when Forward Msg (Mod 2.4.15)</li>
-<br/>
-<li>Added Option to Change Color of Broadcast Icon (Mod 1.2.59)</li>
-<br/>
-<li>Added Option to Change Color of Unread Message in Chat Screen (Mod 1.2.59 to Mod 1.2.61)</li>
-<br/>
-<li>Fixed WAMOD Entry Style</li>
-<br/>
-<li>Increased video sending limit to 50MB</li>
-<br/>
-<li>(Exclusive) Option To Go To First Message of the Chat (Open Any Chat - Click Option and Go To First Message) </li>
-<br/>
-<li>Added Option To Download Status Directly and View Status (Now You can Download Status Directly)</li>
-<br/>
-<li>Now You can Click on Links in Caption of Status</li>
-<br/>
-<li>Added Color To Broadcast List on Main Screen (Mod 2.2.5A)</li>
-<br/>
-<li>Other Fixes</li>
+<li>More From Additions See changelog</li>
 
-","url":"http://www.mediafire.com/file/vynfcnmuo8d9nfb/AZWA_v9.20_By.Ali+Alzaabi.apk"
+","url":"http://www.mediafire.com/file/qxe335kppboxinh/AZWA_v9.30_By.Ali+Alzaabi.apk"
 }
