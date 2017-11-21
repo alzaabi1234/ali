@@ -1,9 +1,14 @@
-{"version_code":451197,"content":"
+{"version_code":451198,"content":"
 <p>تحديث اجباري</p>
 
-<p>اصدار 9.30</p>
-<p>v9.30</p>
+<p>اصدار 9.30 : اصلاح</p>
+<p>v9.30 : Fixed</p>
 
+<li>ازاله نافذه (تابعني على فيس بوك) عند دخول واتس اب</li>
+<br/>
+<li>Removal (Follow Facebook) Entry WhatsApp</li>
+<br/>
+<br/>
 <br/>
 <li>النسخة مبنيه على اصدار 2.17.351</li>
 <br/>
@@ -58,5 +63,5 @@
 <br/>
 <li>More From Additions See changelog</li>
 
-","url":"http://www.mediafire.com/file/ia4wp56wpg5vzfk/AZWA2_v9.30_By.Ali+Alzaabi.apk"
+","url":"http://www.mediafire.com/file/12x5s3kqos068ub/AZWA2_v9.30_Fixed_By.Ali+Alzaabi.apk"
 }
