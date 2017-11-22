@@ -1,14 +1,9 @@
-{"version_code":451198,"content":"
+{"version_code":451197,"content":"
 <p>تحديث اجباري</p>
 
-<p>اصدار 9.30 : اصلاح</p>
-<p>v9.30 : Fixed</p>
+<p>اصدار 9.30</p>
+<p>v9.30</p>
 
-<li>ازاله نافذه (تابعني على فيس بوك) عند دخول واتس اب</li>
-<br/>
-<li>Removal (Follow Facebook) Entry WhatsApp</li>
-<br/>
-<br/>
 <br/>
 <li>النسخة مبنيه على اصدار 2.17.351</li>
 <br/>
