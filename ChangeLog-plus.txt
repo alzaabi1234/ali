@@ -1,4 +1,4 @@
-{"version_code":451199,"content":"
+{"version_code":451198,"content":"
 <p>رسالة دعم موقتة:</p>
 <br/>
 <li>هذه رسالة موقتة وسيتم ايقافها قريبا .. ارجو عدم الانزعاج</li>
@@ -14,7 +14,6 @@
 <br/>
 <li>If you want to support the rate to continue development
 Simply click "Update" and you will be automatically redirected to the ad page</li>
-<br/>
 
 
 ","url":"https://ylx-4.com/fullpage.php?section=General&pub=674612&ga=g"
