@@ -1,47 +1,81 @@
 {"version_code":451197,"content":"
 <p>اصـدار: 9.40</p>
-<br/>
 <p>V9.40</p>
 <br/>
 <br/>
 <li>النسخة مبنيه على اصدار 2.17.427</li>
+<br/>
 <li>إضافة فيسات الواتساب الجديدة</li>
+<br/>
 <li>تم استرجاع ميزة ارسال فيديو اكثر من 30 ثانية ( من اعدادات بلس - 5 مشاركة الوسائط - الخيار رقم 5.6 ) </li>
+<br/>
 <li>يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<br/>
 <li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
+<br/>
 <li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
+<br/>
 <li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
+<br/>
 <li>إضافة ملصق الساعة</li>
+<br/>
 <li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
+<br/>
 <li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
+<br/>
 <li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
+<br/>
 <li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
+<br/>
 <li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور (البوم)</li>
+<br/>
 <li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
+<br/>
 <li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
+<br/>
 <li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
+<br/>
 <li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
+<br/>
 <li>إصلاحات اخرى</li>
 <br/>
 <br/>
 <li>New Base Updated to 2.17.427</li>
+<br/>
 <li>Added New Emojis</li>
+<br/>
 <li>Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<br/>
 <li>Added Option to Increase Video Limit in Status (Mod 5.6)</li>
+<br/>
 <li>Exclusive Ability to identify Admin Msg in Group (Besides Number)</li>
+<br/>
 <li>Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
+<br/>
 <li>Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
+<br/>
 <li>Enabled Change Number Notification</li>
+<br/>
 <li>Enabled Clock Sticker</li>
+<br/>
 <li>Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<br/>
 <li>Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<br/>
 <li>Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
+<br/>
 <li>Added German Language Support</li>
+<br/>
 <li>Fixed Navigation Bar Color when Select any chat/message</li>
+<br/>
 <li>Fixed Mod 6.2 when Send/Receive More than 1 pic.</li>
+<br/>
 <li>Fixed Mod 6.11 for Android Oreo</li>
+<br/>
 <li>Fixed Play Videos in some devices</li>
+<br/>
 <li>Fixed Crash when open Custom Privacy Chats</li>
+<br/>
 <li>Other Fixes...</li>
 
 
