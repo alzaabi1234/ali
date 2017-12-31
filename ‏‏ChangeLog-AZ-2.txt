@@ -1,16 +1,13 @@
 {"version_code":451198,"content":"
 <p>رسالة دعم موقتة:</p>
 <br/>
-<li>هذه رسالة موقتة وسيتم ايقافها قريبا .. ارجو عدم الانزعاج</li>
+<p>Message Support temporary :</p>
 <br/>
 <li>السلام عليكم</li>
 <li>اعزائي مستخدمي واتس اب بلس.. هذي رسالة عن حملة دعم المعدل قبل اصدار التحديث الجديد اللذي سيتم نشره قريبا .. للاستمرار في تطوير النسخ واضافة ميزات جديدة</li>
-<br/>
 <li>اذا اردت دعم المعدل للاستمرار في التطوير</li>
 <li>ماعليك الا الضغط على كلمة "تحديث" وسيتم تحويلك تلقائيا لصفحة الاعلان</li>
 <br/>
-<br/>
-<p>Message Support temporary :</p>
 <br/>
 <li>If you want to support the rate to continue development
 Simply click "Update" and you will be automatically redirected to the ad page</li>
