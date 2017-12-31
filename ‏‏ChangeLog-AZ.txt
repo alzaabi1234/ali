@@ -1,17 +1,49 @@
 {"version_code":451199,"content":"
-<p>رسالة دعم موقتة:</p>
+<p>اصـدار: 9.40</p>
 <br/>
-<p>Message Support temporary :</p>
-<br/>
-<li>السلام عليكم</li>
-<li>اعزائي مستخدمي واتس اب بلس.. هذي رسالة عن حملة دعم المعدل قبل اصدار التحديث الجديد اللذي سيتم نشره قريبا .. للاستمرار في تطوير النسخ واضافة ميزات جديدة</li>
-<li>اذا اردت دعم المعدل للاستمرار في التطوير</li>
-<li>ماعليك الا الضغط على كلمة "تحديث" وسيتم تحويلك تلقائيا لصفحة الاعلان</li>
+<p>V9.40</p>
 <br/>
 <br/>
-<li>If you want to support the rate to continue development
-Simply click "Update" and you will be automatically redirected to the ad page</li>
+<li>النسخة مبنيه على اصدار 2.17.427</li>
+<li>إضافة فيسات الواتساب الجديدة</li>
+<li>تم استرجاع ميزة ارسال فيديو اكثر من 30 ثانية ( من اعدادات بلس - 5 مشاركة الوسائط - الخيار رقم 5.6 ) </li>
+<li>يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
+<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
+<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
+<li>إضافة ملصق الساعة</li>
+<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
+<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
+<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
+<li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
+<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور (البوم)</li>
+<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
+<li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
+<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
+<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
+<li>إصلاحات اخرى</li>
+<br/>
+<br/>
+<li>New Base Updated to 2.17.427</li>
+<li>Added New Emojis</li>
+<li>Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li>Added Option to Increase Video Limit in Status (Mod 5.6)</li>
+<li>Exclusive Ability to identify Admin Msg in Group (Besides Number)</li>
+<li>Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
+<li>Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
+<li>Enabled Change Number Notification</li>
+<li>Enabled Clock Sticker</li>
+<li>Enabled Group Info Settings (Will Work when Enabled from Server)</li>
+<li>Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
+<li>Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
+<li>Added German Language Support</li>
+<li>Fixed Navigation Bar Color when Select any chat/message</li>
+<li>Fixed Mod 6.2 when Send/Receive More than 1 pic.</li>
+<li>Fixed Mod 6.11 for Android Oreo</li>
+<li>Fixed Play Videos in some devices</li>
+<li>Fixed Crash when open Custom Privacy Chats</li>
+<li>Other Fixes...</li>
 
 
-","url":"https://ylx-4.com/fullpage.php?section=General&pub=674612&ga=g"
+","url":"https://azmodsco.000webhostapp.com/AZWA.html"
 }
