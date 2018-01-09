@@ -2,6 +2,9 @@
 <p>اصـدار: 9.40</p>
 <p>V9.40</p>
 <br/>
+<p>تم تعديل الرابط تحميل</p>
+<p>Repair Link Download</p>
+<br/>
 <br/>
 <li>النسخة مبنيه على اصدار 2.17.427</li>
 <br/>
@@ -79,5 +82,5 @@
 <li>Other Fixes...</li>
 
 
-","url":"https://azmodsco.000webhostapp.com/AZWA2.html"
+","url":"http://www.azmods.co/2017/03/AZWhatsApp2.html"
 }
