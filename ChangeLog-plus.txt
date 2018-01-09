@@ -2,6 +2,9 @@
 <p>اصـدار: 9.40</p>
 <p>V9.40</p>
 <br/>
+<p>تم تعديل الرابط تحميل</p>
+<p>Repair Link Download</p>
+<br/>
 <li>النسخة مبنيه على اصدار 2.17.427</li>
 <br/>
 <li>إضافة فيسات الواتساب الجديدة</li>
@@ -78,5 +81,5 @@
 <li>Other Fixes...</li>
 
 
-","url":"https://azmodsco.000webhostapp.com/WAPlus.html"
+","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
 }
