@@ -2,8 +2,8 @@
 <p>اصـدار: 9.40</p>
 <p>V9.40</p>
 <br/>
-<p>تم تعديل الرابط تحميل</p>
-<p>Repair Link Download</p>
+<p>تحديث اجباري</p>
+<p>Update Is mandatory</p>
 <br/>
 <br/>
 <li>النسخة مبنيه على اصدار 2.17.427</li>
