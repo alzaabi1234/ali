@@ -1,91 +1,111 @@
-{"version_code":451201,"content":"
-<p>اصـدار: 9.50</p>
-<p>V9.50</p>
+{"version_code":451203,"content":"
+<p>اصـدار: 9.60</p>
+<p>V9.60</p>
 <br/>
-<li>النسخة مبنية على اصدار 2.18.9</li>
+<li>النسخة مبنيه على اصدار 2.18.46</li>
 <br/>
-<li>إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)</li>
+<li>الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
 <br/>
-<li>تفعيل ميزة البحث عن عضو في معلومات المجموعة</li>
+<li>تفعيل ميزة وضع وصف للمجموعات</li>
 <br/>
-<li>اضافة النص التلقائي</li>
+<li>يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
 <br/>
-<li>اضافة خيار لاخفاء ايقونة النص التلقائي</li>
+<li>إعادة الخيار 6.19 لتشغيل الفيديوهات بالمشغل الخاص بك</li>
 <br/>
-<li>إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3</li>
+<li>عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
 <br/>
-<li>إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1</li>
+<li>إعادة زر تحويل اي فيديو لصورة متحركة والعكس</li>
 <br/>
-<li>إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0</li>
+<li>أضافة خيار لتعطيل اهتزاز WhatsApp باعلى شاشة المحادثات (افتح المحادثات المخفية ثم الاعدادات)</li>
 <br/>
-<li>إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3</li>
+<li>إضافة خيار لتعطيل ظهور عدد الرسائل المخفية على ايقونة البرنامج (افتح المحادثات المخفية ثم الاعدادات)</li>
 <br/>
-<li>إضافة الخيار رقم 1.2.64 لتعطيل ظهور 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
+<li>دعم تغيير ثيم شاشة إنشاء مجموعة جديدة - رسالة جماعية جديدة - رسالة مجدولة - المحادثات المخصصة</li>
 <br/>
-<li>إضافة الخيار رقم 1.2.65 لتغيير لون 'مشرف المجموعة' بجانب الاسم في المجموعة</li>
+<li>إضافة القسم 2.8 لتغيير ثيم شاشة الرسائل المميزة بنجمة</li>
 <br/>
-<li>يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة</li>
+<li>إضافة الخيار رقم 2.2.30A لتغيير حجم نص متصل الان واخر ظهور في شاشة المحادثات الرئيسية</li>
 <br/>
-<li>إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط (قريبا تفعيل)</li>
+<li>إضافة الخيار رقم 2.4.13A لتغيير حجم نص متصل الان واخر ظهور في شاشة الاسماء</li>
 <br/>
-<li>إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)</li>
+<li>إضافة الخيار رقم 1.2.66 لاخفاء عرض وصف المجموعات في المحادثة</li>
 <br/>
-<li>إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج</li>
+<li>إضافة الخيار رقم 1.2.67 لتغيير لون اللقب في المجموعة</li>
 <br/>
-<li>إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة 'إرسال رسالة لرقم غير محفوظ في جهازك'</li>
+<li>إصلاح التنزيل التلقائي للوسائط</li>
 <br/>
-<li>إصلاح ظهور المحادثات المخفية في الويدجت</li>
+<li>إصلاح الخيار 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
 <br/>
-<li>إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج</li>
+<li>إصلاح ظهور اسم المشرف بجانب الاسم في المجموعات</li>
 <br/>
-<li>إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة</li>
+<li>إصلاح الخيار رقم 1.1.10 لتغيير خلفية ارفاق الوسائط</li>
 <br/>
-<li>دعم اللغة الهندية</li>
+<li>إصلاح حذف الرد التلقائي</li>
+<br/>
+<li>إصلاح الرد التلقائي عند اختيار وقت البدء مساءً ووقت الانتهاء </li>
+<br/>
+<li>إصلاح فتح المحادثات المخفية من معلومات المجموعة ثم النقر على صورة المحادثة</li>
+<br/>
+<li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
 <br/>
 <li>إصلاحات اخرى</li>
 <br/>
 <br/>
-<li>New Base Updated to 2.18.9</li>
+<li> New Base Updated to 2.18.46</li>
 <br/>
-<li>(Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
+<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
 <br/>
-<li>Enabled Search Participants</li>
+<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
 <br/>
-<li>Enabled Manage Group Admins</li>
+<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
 <br/>
-<li>Enabled Group Settings (Server Sided)</li>
+<li> Enabled Group Description</li>
 <br/>
-<li>Added 7 New Conversation Bubbles</li>
+<li> (Exclusive) Added Group Description in Header Like Status</li>
 <br/>
-<li>Added 4 New Ticks</li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
 <br/>
-<li>Added 16 New Notifying Bar Icons</li>
+<li> Enabled Mention Button</li>
 <br/>
-<li>Added 5 New Launcher Icons</li>
+<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
 <br/>
-<li>Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
+<li> Added Back Option to Convert Video to GIF</li>
 <br/>
-<li>Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
+<li> Added Option to Edit Auto Reply Message</li>
 <br/>
-<li>Added Hindi Language (Indian Language)</li>
+<li> Improved AutoReply</li>
 <br/>
-<li>Fixed Hidden Chat opening from Phones</li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
 <br/>
-<li>Fixed Hidden Chat opening from Dialer</li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
 <br/>
-<li>Fixed Hidden Message showing in Widget</li>
+<li> Added Themed New Group Page</li>
 <br/>
-<li>Fixed Hidden Chat Opening from Widget</li>
+<li> Added Themed New Broadcast Page</li>
 <br/>
-<li>Fixed Able to call Hidden Chat From Group</li>
+<li> Added Themed Custom Chats Screen</li>
 <br/>
-<li>Fixed Showing Hidden Chat when try to Share from Gallery or File Manager.</li>
+<li> Added Themed Scheduler Page</li>
 <br/>
-<li>Fixed App Opening from Widget even when Locked</li>
+<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
 <br/>
-<li>Fixed Crash On Some Devices</li>
+<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
 <br/>
-<li>Many More Fixes</li>
+<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
+<br/>
+<li>Fixed Media auto-download</li>
+<br/>
+<li> Fixed Admin Caption (Mod 1.2.64)</li>
+<br/>
+<li> Fixed delete AutoReply</li>
+<br/>
+<li> Fixed Hidden Chat counter Showing On Widget</li>
+<br/>
+<li> Fixed Hidden Chat Opening from Group Info</li>
+<br/>
+<li> Fixed Hidden Group Opening from Groups in Common</li>
+<br/>
+<li> Many More Fixes</li>
 
 
 ","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
