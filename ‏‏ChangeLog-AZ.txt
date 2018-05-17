@@ -108,5 +108,5 @@
 <li> Many More Fixes</li>
 
 
-","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
+","url":"https://www.azmods.co/2016/11/AZWhatsApp.html"
 }
