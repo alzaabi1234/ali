@@ -1,4 +1,28 @@
-{"version_code":451205,"content":"
+{"version_code":451206,"content":"
+<p>اصـدار: 9.75</p>
+<p>V9.75</p>
+<br/>
+<li>اصلاح اغلاق بقوة عند اجراء مكالمة</li>
+<br/>
+<li>اصلاح اغلاق بقوة عند تحديد رسالة او فيديو او صور</li>
+<br/>
+<li>اصلاح اغلاق بقوة عند استعراض صورة البروفايل</li>
+<br/>
+<li>اصلاح اغلاق بقوة عند دخول معلومات جهات الاتصال</li>
+<br/>
+<li>اصلاحات و تحسينات اخرى</li>
+<br/>
+<li>Fixed Close strongly when making a call</li>
+<br/>
+<li>Fixed Shut down strongly when you select a message, video or picture</li>
+<br/>
+<li>Fixed Close strongly when viewing profile image</li>
+<br/>
+<li>Fixed Close strongly when entering contact information</li>
+<br/>
+<li>Many Other Fixes...</li>
+<br/>
+<br/>
 <p>اصـدار: 9.70</p>
 <p>V9.70</p>
 <br/>
