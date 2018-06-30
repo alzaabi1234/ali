@@ -1,4 +1,4 @@
-{"version_code":451208,"content":"
+{"version_code":451207,"content":"
 <p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا </p>
 <br/>
 <li>اذا كنت تحب واتساب بلس / AZWhatsApp يمكنك دعم المطور من خلال الضغط على الاعلانات </li>
@@ -16,5 +16,5 @@
 <li>Pressing the ads gives me material support and keeps me developing</li>
 
 
-","url":"https://ylx-4.com/fullpage.php?section=General&pub=674612&ga=g"
+","url":"https://azmodsco.000webhostapp.com/WAPlus.html"
 }
