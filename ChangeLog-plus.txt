@@ -15,6 +15,5 @@
 <br/>
 <li>Pressing the ads gives me material support and keeps me developing</li>
 
-
 ","url":"https://azmodsco.000webhostapp.com/WAPlus.html"
 }
