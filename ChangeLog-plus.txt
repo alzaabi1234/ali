@@ -15,5 +15,5 @@
 <br/>
 <li>Pressing the ads gives me material support and keeps me developing</li>
 
-","url":"https://www.azmods.co/2013/07/Ad.html"
+","url":"https://www.azmods.co"
 }
