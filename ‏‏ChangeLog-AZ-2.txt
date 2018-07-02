@@ -1,5 +1,6 @@
 {"version_code":451206,"content":"
 <p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا </p>
+<p>This is not an update and the developer support message will soon disappear</p>
 <br/>
 <li>اذا كنت تحب واتساب بلس / AZWhatsApp يمكنك دعم المطور من خلال الضغط على الاعلانات </li>
 <br/>
@@ -7,14 +8,11 @@
 <br/>
 <li>الضغط على الاعلانات يدعمني مادياً و يجعلني استمر في تطوير</li>
 <br/>
-<p>This is not an update and the developer support message will soon disappear</p>
-<br/>
 <li>If you love WhatsApp Plus / AZWhatsApp you can support the developer by clicking on the ads</li>
 <br/>
 <li>Click "update" and then click on the ads on the page</li>
 <br/>
 <li>Pressing the ads gives me material support and keeps me developing</li>
-
 
 ","url":"https://azmodsco.000webhostapp.com/WAPlus.html"
 }
