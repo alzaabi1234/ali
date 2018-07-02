@@ -1,5 +1,5 @@
 {"version_code":451206,"content":"
-<p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا </p>
+<p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا</p>
 <p>This is not an update and the developer support message will soon disappear</p>
 <br/>
 <li>اذا كنت تحب واتساب بلس / AZWhatsApp يمكنك دعم المطور من خلال الضغط على الاعلانات </li>
