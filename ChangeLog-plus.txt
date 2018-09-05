@@ -1,107 +1,20 @@
-{"version_code":451206,"content":"
-<p>اصـدار: 9.75</p>
-<p>V9.75</p>
+{"version_code":451208,"content":"
+<p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا </p>
 <br/>
-<li>اصلاح اغلاق بقوة عند اجراء مكالمة</li>
+<li>اذا كنت تحب واتساب بلس / AZWhatsApp يمكنك دعم المطور من خلال الضغط على الاعلانات </li>
 <br/>
-<li>اصلاح اغلاق بقوة عند تحديد رسالة او فيديو او صور</li>
+<li>اضغط  "تحديت" ثم اضغط على الاعلانات موجوده في صفحة</li>
 <br/>
-<li>اصلاح اغلاق بقوة عند استعراض صورة البروفايل</li>
+<li>الضغط على الاعلانات يدعمني مادياً و يجعلني استمر في تطوير</li>
 <br/>
-<li>اصلاح اغلاق بقوة عند دخول معلومات جهات الاتصال</li>
+<p>This is not an update and the developer support message will soon disappear</p>
 <br/>
-<li>اصلاحات و تحسينات اخرى</li>
+<li>If you love WhatsApp Plus / AZWhatsApp you can support the developer by clicking on the ads</li>
 <br/>
-<li>Fixed Close strongly when making a call</li>
+<li>Click "update" and then click on the ads on the page</li>
 <br/>
-<li>Fixed Shut down strongly when you select a message, video or picture</li>
-<br/>
-<li>Fixed Close strongly when viewing profile image</li>
-<br/>
-<li>Fixed Close strongly when entering contact information</li>
-<br/>
-<li>Many Other Fixes...</li>
-<br/>
-<br/>
-<p>اصـدار: 9.70</p>
-<p>V9.70</p>
-<br/>
-<li>النسخة مبنيه على اصدار 2.18.122</li>
-<br/>
-<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
-<br/>
-<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
-<br/>
-<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
-<br/>
-<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
-<br/>
-<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
-<br/>
-<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة (محذوفة)</li>
-<br/>
-<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
-<br/>
-<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
-<br/>
-<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
-<br/>
-<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
-<br/>
-<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
-<br/>
-<li>إصلاح لون فقاعات الدردشة</li>
-<br/>
-<li>إصلاح إخفاء اشارة التشغيل</li>
-<br/>
-<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
-<br/>
-<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
-<br/>
-<li>تحديث اللغة الايطالية والبرازيلية</li>
-<br/>
-<li>إصلاحات اخرى</li>
-<br/>
-<li>New Base Updated to 2.18.122</li>
-<br/>
-<li>Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
-<br/>
-<li>Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
-<br/>
-<li>Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording)</li>
-<br/>
-<li>Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
-<br/>
-<li>Added Stock Fab (Mod 2.7.9)</li>
-<br/>
-<li>Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
-<br/>
-<li>Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
-<br/>
-<li>Added Option to Disable Auto-Reply when Hide Read</li>
-<br/>
-<li>Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
-<br/>
-<li>Added Custom Media Auto-Download in Custom Chats</li>
-<br/>
-<li>Added Now You can Search by Name in Theme Server</li>
-<br/>
-<li>Updated Italian & Brazilian language</li>
-<br/>
-<li>Fixed Contacts Name Color when Add Participants</li>
-<br/>
-<li>Fixed Bubble Color</li>
-<br/>
-<li>Fixed Privacy for Blue Microphone</li>
-<br/>
-<li>Fixed GIF Background Color</li>
-<br/>
-<li>Fixed Attach Icon not Showing in Broadcast chat</li>
-<br/>
-<li>Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
-<br/>
-<li>Many Other Fixes</li>
+<li>Pressing the ads gives me material support and keeps me developing</li>
 
 
-","url":"http://www.azmods.co/2016/12/WhatsApp-plus.html"
+","url":"http://azmods.co/ads2.html"
 }
