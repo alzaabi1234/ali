@@ -1,6 +1,8 @@
 {"version_code":451202,"content":"
-<p>اصـدار: 9.80</p>
-<p>V9.80</p>
+<p>اصـدار: 9.85</p>
+<p>V9.85</p>
+<br/>
+<li>اصلاح مشكلة اغلاق بقوه عند فتح التطبيق في بعض الاجهزه</li>
 <br/>
 <li>النسخة مبنية على اصدار  2.18.203</li>
 <br/>
@@ -31,6 +33,8 @@
 <li>تحديث اللغات الايطالية والبرتغالية</li>
 <br/>
 <li>إصلاحات اخرى</li>
+<br/>
+<li>Fixed Shut down when you open the application in some devices+++/</li>
 <br/>
 <li>New Base Updated to 2.18.203</li>
 <br/>
