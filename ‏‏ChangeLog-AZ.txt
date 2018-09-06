@@ -1,80 +1,62 @@
-{"version_code":451205,"content":"
-<p>اصـدار: 9.70</p>
-<p>V9.70</p>
+{"version_code":451207,"content":"
+<p>اصـدار: 9.80</p>
+<p>V9.80</p>
 <br/>
-<li>النسخة مبنيه على اصدار 2.18.122</li>
+<li>النسخة مبنية على اصدار  2.18.203</li>
 <br/>
-<li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
+<li>إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
 <br/>
-<li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
 <br/>
-<li>يمكن تخصيص الرد التلقائي لمحادثات معينة او استثناء محادثات معينة</li>
+<li>تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها (اعدادات - الدردشات - سجلات الدردشة- نقل الدردشة)</li>
 <br/>
-<li>إضافة الخيار رقم 2.7.9 لاختيار شكل الزر العائم كالواتس الرسمي</li>
+<li>تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
 <br/>
-<li>إضافة الخيار رقم 2.1.11 لاخفاء زر انشاء دردشة جديدة من المحادثات</li>
+<li>تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
 <br/>
-<li>إضافة الخيار رقم 6.20 لتعطيل ظهور تنبيه بان هناك رسائل مسترجعة (محذوفة)</li>
+<li>إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته من شركة واتس اب  رسمي وكذلك نقله (افتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
 <br/>
-<li>إضافة خيار لتعطيل الرد التلقائي في حال اخفاء صحين القراءة</li>
+<li>إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
 <br/>
-<li>إضافة الخيار رقم 1.1.16 لإظهار ايقونة الفيديو في المحادثة</li>
+<li>إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
 <br/>
-<li>يمكنك الان معرفة المحادثات التي قمت بتفعيل التحميل التلقائي لها.(افتح الواتساب - خيارات - المحادثات المخصصة)</li>
+<li>إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
 <br/>
-<li>يمكنك الان البحث عن الثيمات من خلال اسم الثيم</li>
+<li>إصلاح مشكلة البحث في الإنترنت</li>
 <br/>
-<li>إصلاح لون الاسماء عند اضافة عضو جديد لاي مجموعة</li>
+<li>إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
 <br/>
-<li>إصلاح لون فقاعات الدردشة</li>
+<li>إصلاح مشكلة مشاركة و إرسال الثيمات</li>
 <br/>
-<li>إصلاح إخفاء اشارة التشغيل</li>
-<br/>
-<li>إصلاح عدم ظهور ايقونة الارفاق في محادثة الرسائل الجماعية</li>
-<br/>
-<li>إصلاح لون الشريط العلوي للمحادثات المخفية و المؤرشفة</li>
-<br/>
-<li>تحديث اللغة الايطالية والبرازيلية</li>
+<li>تحديث اللغات الايطالية والبرتغالية</li>
 <br/>
 <li>إصلاحات اخرى</li>
 <br/>
-<li>New Base Updated to 2.18.122</li>
+<li>New Base Updated to 2.18.203</li>
 <br/>
-<li>Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
+<li>Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages)</li>
 <br/>
-<li>Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
+<li>Enabled Media Visibility (Go to Profile - Media Visibility)</li>
 <br/>
-<li>Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording)</li>
+<li>Enabled Mark as Read in Notification.</li>
 <br/>
-<li>Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
+<li>Removed Seperate App for Themes</li>
 <br/>
-<li>Added Stock Fab (Mod 2.7.9)</li>
+<li>Removed Mod 6.8 as Old</li>
 <br/>
-<li>Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
+<li>Fixed Header Vibration for Hide Chats</li>
 <br/>
-<li>Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
+<li>Fixed Revoke Notification not showing in Few Devices</li>
 <br/>
-<li>Added Option to Disable Auto-Reply when Hide Read</li>
+<li>Fixed Apply Themes in Some Devices</li>
 <br/>
-<li>Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
+<li>Fixed Web Search</li>
 <br/>
-<li>Added Custom Media Auto-Download in Custom Chats</li>
+<li>Fixed Backup & Restore (Mod 6.7)</li>
 <br/>
-<li>Added Now You can Search by Name in Theme Server</li>
+<li>Fixed Share and Send Theme</li>
 <br/>
-<li>Updated Italian & Brazilian language</li>
-<br/>
-<li>Fixed Contacts Name Color when Add Participants</li>
-<br/>
-<li>Fixed Bubble Color</li>
-<br/>
-<li>Fixed Privacy for Blue Microphone</li>
-<br/>
-<li>Fixed GIF Background Color</li>
-<br/>
-<li>Fixed Attach Icon not Showing in Broadcast chat</li>
-<br/>
-<li>Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
+<li>Updated Italian and Portuguese Language</li>
 <br/>
 <li>Many Other Fixes</li>
 
