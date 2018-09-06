@@ -34,7 +34,7 @@
 <br/>
 <li>إصلاحات اخرى</li>
 <br/>
-<li>Fixed Shut down when you open the application in some devices+++/</li>
+<li>Fixed Shut down when you open the application in some devices/</li>
 <br/>
 <li>New Base Updated to 2.18.203</li>
 <br/>
