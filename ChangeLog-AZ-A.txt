@@ -1,20 +1,65 @@
 {"version_code":451205,"content":"
-<p>هذا ليس تحديث رسالة دعم المطور ستختفي قريبا </p>
+<p>اصـدار: 9.80</p>
+<p>V9.80</p>
 <br/>
-<li>اذا كنت تحب واتساب بلس / AZWhatsApp يمكنك دعم المطور من خلال الضغط على الاعلانات </li>
+<li>النسخة مبنية على اصدار  2.18.203</li>
 <br/>
-<li>اضغط  "تحديت" ثم اضغط على الاعلانات موجوده في صفحة</li>
+<li>إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
 <br/>
-<li>الضغط على الاعلانات يدعمني مادياً و يجعلني استمر في تطوير</li>
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
 <br/>
-<p>This is not an update and the developer support message will soon disappear</p>
+<li>تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها (اعدادات - الدردشات - سجلات الدردشة- نقل الدردشة)</li>
 <br/>
-<li>If you love WhatsApp Plus / AZWhatsApp you can support the developer by clicking on the ads</li>
+<li>تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
 <br/>
-<li>Click "update" and then click on the ads on the page</li>
+<li>تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
 <br/>
-<li>Pressing the ads gives me material support and keeps me developing</li>
+<li>إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته من شركة واتس اب  رسمي وكذلك نقله (افتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
+<br/>
+<li>إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
+<br/>
+<li>إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
+<br/>
+<li>إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
+<br/>
+<li>إصلاح مشكلة البحث في الإنترنت</li>
+<br/>
+<li>إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
+<br/>
+<li>إصلاح مشكلة مشاركة و إرسال الثيمات</li>
+<br/>
+<li>تحديث اللغات الايطالية والبرتغالية</li>
+<br/>
+<li>إصلاحات اخرى</li>
+<br/>
+<li>New Base Updated to 2.18.203</li>
+<br/>
+<li>Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages)</li>
+<br/>
+<li>Enabled Media Visibility (Go to Profile - Media Visibility)</li>
+<br/>
+<li>Enabled Mark as Read in Notification.</li>
+<br/>
+<li>Removed Seperate App for Themes</li>
+<br/>
+<li>Removed Mod 6.8 as Old</li>
+<br/>
+<li>Fixed Header Vibration for Hide Chats</li>
+<br/>
+<li>Fixed Revoke Notification not showing in Few Devices</li>
+<br/>
+<li>Fixed Apply Themes in Some Devices</li>
+<br/>
+<li>Fixed Web Search</li>
+<br/>
+<li>Fixed Backup & Restore (Mod 6.7)</li>
+<br/>
+<li>Fixed Share and Send Theme</li>
+<br/>
+<li>Updated Italian and Portuguese Language</li>
+<br/>
+<li>Many Other Fixes</li>
 
 
-","url":"https://azmodsco.000webhostapp.com/WAPlus.html"
+","url":"https://www.azmods.co/2018/06/AZWhatsApp-A.html"
 }
