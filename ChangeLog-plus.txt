@@ -1,75 +1,31 @@
-{"version_code":451209,"content":"
-<p>اصـدار: 9.90</p>
-<p>V9.90</p>
+{"version_code":451210,"content":"
+<p>⚠تنبيه هذا ليس تحديث</p>
+<p>⚠This alert is not an update</p>
 <br/>
-<li> النسخة مبنية على اصدار 2.18.327</li>
+<p>هام</p>
+<li>مرحبا .. هناك اخبار منتشره بخصوص واتس اب بلس و النسخ المعدله سيتم حظر مستخدميها </li>
 <br/>
-<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
+<li>حبيت اطمنكم بان هذا الكلام لا صحة له</li>
 <br/>
-<li> اضافة خيار جديد  في اعدادات بلس لتحميل الملصقات منوعة (قريبا سيتم اضافة المزيد)</li>
+<li>و هذه مقالات روتينيه من شركة الواتس اب </li>
 <br/>
-<li> (حصرياً) إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
+<li>استمرو في استخدام واتس اب بلس 
+و هناك تحديث جديد سيتم اطلاقه قريبا يحمل مييزات جميله 😉 </li>
 <br/>
-<li> (حصرياً) لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
+<li>تحياتي : علي الزعابي ❤</li>
 <br/>
-<li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
+<p>Important</p>
+<li>Hi .. There is widespread news about WhatsApp Plus and the modified versions will be banned for its users</li>
 <br/>
-<li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
+<li>This is incorrect news</li>
 <br/>
-<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
+<li>These are routine articles from WhatsApp</li>
 <br/>
-<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
+<li>Continue using Watts Plus
+And there is a new update will be launched soon holds beautiful features 😉 </li>
 <br/>
-<li> ‏تفعيل ميزة المكالمات الجماعية</li>
-<br/>
-<li> تفعيل ميزة صورة داخل الصورة</li>
-<br/>
-<li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
-<br/>
-<li> دعم تغيير ثيم قسم الملصقات</li>
-<br/>
-<li> إزالة الحد الأدني لعمل إعادة توجية لمستخدمين دولة الهند</li>
-<br/>
-<li> إصلاح مشكلة ظهور المحادثات المخفية من خلال شاشة المكالمات</li>
-<br/>
-<li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
-<br/>
-<li> إصلاح مشكلة البحث عن الثيمات</li>
-<br/>
-<li> إصلاحات أخرى</li>
-<br/>
-<li> New Base Updated to 2.18.327</li>
-<br/>
-<li> Enabled Stickers</li>
-<br/>
-<li> Add the option to download a variety of stickers in Plus settings (more will be added soon)</li>
-<br/>
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
-<br/>
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
-<br/>
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
-<br/>
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
-<br/>
-<li> Enabled Swipe To Reply</li>
-<br/>
-<li> Enabled Group Calls</li>
-<br/>
-<li> Increased Forward Limit for Indian Users</li>
-<br/>
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
-<br/>
-<li> Added Themed Stickers Tab</li>
-<br/>
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
-<br/>
-<li> Fixed Square Pics</li>
-<br/>
-<li> Fixed Search in Themes</li>
-<br/>
-<li> Many Other Fixes</li>
+<li>Greetings : Ali Al-Zaabi ❤</li>
 
 
-","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
+","url":"https://www.azmods.co"
 }
