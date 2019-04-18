@@ -1,18 +1,78 @@
-{"version_code":451210,"content":"
-<p>اصـدار: 9.95</p>
-<p>V9.95</p>
+{"version_code":451211,"content":"
+<p>اصـدار: 10.00</p>
+<p>V10.00</p>
 <br/>
-<li> تحديث اجباري لتفادي انتهاء النسخة</li>
+<li>النسخة مبنية على اصدار 2.19.17</li>
 <br/>
-<li> تمديد صلاحية النسخة</li>
+<li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
 <br/>
-<li>اصلاحات اخرى</li>
+<li>إضافة الفيسات الجديدة</li>
+<br/>
+<li>إضافة خطوط جديدة</li>
+<br/>
+<li>إضافة ايقونات جديدة</li>
+<br/>
+<li>إضافة خيار لحذف الوسائط المكرره (يحتاج تحميل تطبيق)</li>
+<br/>
+<li>يمكنك عمل مكالمة جماعية مع اعضاء المجموعات</li>
+<br/>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<br/>
+<li>إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp </li>
+<br/>
+<li>يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
+<br/>
+<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
+<br/>
+<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
+<br/>
+<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
+<br/>
+<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
+<br/>
+<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
+<br/>
+<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
+<br/>
+<li>إصلاحات اخرى</li>
 <br/>
 <li> A mandatory update to avoid the expiration of the version</li>
 <br/>
 <li> Extend the validity of the version</li>
 <br/>
-<li> Many Other Fixes</li>
+<li>New Base Updated to 2.19.17</li>
+<br/>
+<li>Added Now You can Add Stickers From PlayStore to any Package</li>
+<br/>
+<li>Added New Emojis</li>
+<br/>
+<li>Added New Fonts</li>
+<br/>
+<li>Added New Launcher Icons</li>
+<br/>
+<li>Added Delete Media Repeated (Download App)</li>
+<br/>
+<li>Added You can call Participants in groups</li>
+<br/>
+<li>Added Reply Privately when select message in groups</li>
+<br/>
+<li>Added Option to Disable click on Header for Hidden Chats (Mod 6.21)</li>
+<br/>
+<li> Added Now You can Sort Messages Sent By (Newest/Oldest)</li>
+<br/>
+<li>Added Confirmation Dialog when Call in Group Chat</li>
+<br/>
+<li>Increased Pin Chats from 25 to 30</li>
+<br/>
+<li>Fixed Crash when search in themes</li>
+<br/>
+<li>Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler</li>
+<br/>
+<li> Fixed Change App Language in Android Oreo and Pie</li>
+<br/>
+<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
+<br/>
+<li>Many More Fixes</li>
 
 
 ","url":"https://www.azmods.co/2017/03/AZWhatsApp2.html"
