@@ -3,10 +3,19 @@
 <p>V10.10</p>
 <br/>
 <li>نسخة ضد الحظر</li>
-<li>يجب عمل نسخة احتياطية للمحادثات -1
-2- ثم حذف الواتس اب القديم اصدار 10.00
-3- ثم تثبيت التحديث الجديد اصدار 10.10
-حتى لا يتم حظر رقمك مستقبلا</li>
+<li>مهم جداً يرجى اتباع التعليمات</li>
+<li>1- يجب عمل نسخة احتياطية للمحادثات</li>
+<li>2- ثم حذف الواتس اب القديم اصدار 10.00</li>
+<li>3- ثم تثبيت التحديث الجديد اصدار 10.10</li>
+<li>حتى لا يتم حظر رقمك مستقبلا</li>
+<br/>
+<li> Anti-Ban</li>
+<li>Very important please follow the instructions</li>
+<li>1-Please take Backup</li>
+<li>2-Uninstall App WhatsApp Plus V10.00</li>
+<li>3-Install WhatsApp Plus V10.10</li>
+<li>So that your number is not blocked in the future</li>
+<br/>
 <br/>
 <li>تمديد صلاحية النسخة </li>
 <br/>
@@ -17,12 +26,6 @@
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 <br/>
 <li>اصلاحات اخرى</li>
-<br/>
-<li> Anti-Ban</li>
-<li>1-Please take Backup
-2-Uninstall App WhatsApp Plus V10.00
-3-Install WhatsApp Plus V10.10
-So that your number is not blocked in the future</li>
 <br/>
 <li> Extend expiry for this Base</li>
 <br/>
