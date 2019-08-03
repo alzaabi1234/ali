@@ -1,40 +1,15 @@
-{"version_code":451214,"content":"
-<p>اصـدار: 10.10</p>
-<p>V10.10</p>
+{"version_code":451215,"content":"
+<p>اصـدار: 10.15</p>
+<p>V10.15</p>
 <br/>
+<p>تحديث اجباري لتفادي انتهاء النسخة</p>
+<p>A mandatory update to avoid the expiration of the version</p>
+<br/>
+<li>تمديد صلاحية النسخة</li>
 <li>نسخة ضد الحظر</li>
-<li>مهم جداً يرجى اتباع التعليمات</li>
-<li>1- يجب عمل نسخة احتياطية للمحادثات</li>
-<li>2- ثم حذف الواتس اب القديم اصدار 10.00</li>
-<li>3- ثم تثبيت التحديث الجديد اصدار 10.10</li>
-<li>حتى لا يتم حظر رقمك مستقبلا</li>
-<br/>
-<li> Anti-Ban</li>
-<li>Very important please follow the instructions</li>
-<li>1-Please take Backup</li>
-<li>2-Uninstall App WhatsApp Plus V10.00</li>
-<li>3-Install WhatsApp Plus V10.10</li>
-<li>So that your number is not blocked in the future</li>
-<br/>
-<br/>
-<li>تمديد صلاحية النسخة </li>
-<br/>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<br/>
-<li>اصلاح لون الدفعات في شاشة المحادثة</li>
-<br/>
-<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
-<br/>
 <li>اصلاحات اخرى</li>
 <br/>
 <li> Extend expiry for this Base</li>
-<br/>
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-<br/>
-<li> Fixed Payments Color in Attach Menu</li>
-<br/>
-<li> Fixed Crash when open chat in some devices</li>
-<br/>
 <li> Other Fixes</li>
 
 
