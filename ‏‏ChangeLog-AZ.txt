@@ -40,7 +40,7 @@
 <br/>
 <p>Some options have been changed in the Plus settings</p>
 <br/>
-<p>Other fixes and improvements</p>
+<p>Other fixes and improvements</p> 
 
 
 ","url":"https://www.azmods.co/2016/11/AZWhatsApp.html"
