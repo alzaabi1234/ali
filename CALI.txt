@@ -1,0 +1,47 @@
+{"version_code":452435,"content":"
+<p>اصـدار: 10.20</p>
+<p>V10.20</p>
+<br/>
+<p>النسخة مبنية على اصدار 2.19.150</p>
+<br/>
+<p>اصلاح مشكلة انتهاء النسخة عند التثبيت الواتساب</p>
+<br/>
+<p>اضافة اظهار الصحين الزرقاء فقط عند الرد (للتفعيل من اعدادات الخصوصية)</p>
+<br/>
+<p>اضافة منع حذف الحالة/الستوري (للتفعيل من اعدادات الخصوصية)</p>
+<br/>
+<p>اضافة اخفاء الحالات غير الهامة من قسم الحالة/الستوري (للتفعيل من اعدادات الخصوصية)</p>
+<br/>
+<p>اضافة خيار تقسيم الفيديو المرسل للحالة/الستوري (من اعدادات بلس/4.الحالة/الستوري والوسائط)</p>
+<br/>
+<p>اضافة قفل تطبيق واتساب ببصمة الاصبع (للتفعيل من اعدادات/الحساب/الخصوصية/فتح القفل ببصمة الاصبع)</p>
+<br/>
+<p>والمزيد من الخيارات</p>
+<br/>
+<p>تم تغيير بعض امكان الخيارات في اعدادات بلس</p>
+<br/>
+<p>اصلاحات و تحسينات اخرى</p>
+<br/>
+<p>Version is based on version 2.19.150</p>
+<br/>
+<p>Fixed the problem of the end of the version when installing WhatsApp</p>
+<br/>
+<p>Add show blue saheen only when you reply (to activate the privacy settings)</p>
+<br/>
+<p>Add prevent delete status / Alstorri (to activate from the privacy settings)</p>
+<br/>
+<p>Add hide unimportant cases from the case / Alstori (to activate from the privacy settings)</p>
+<br/>
+<p>Added option to split video sent to the status / Alstorri (from the settings of Plus / 4.Status / Alstorri and media)</p>
+<br/>
+<p>Add a WhatsApp fingerprint lock (to activate settings / account / privacy / unlock fingerprint)</p>
+<br/>
+<p>More options</p>
+<br/>
+<p>Some options have been changed in the Plus settings</p>
+<br/>
+<p>Other fixes and improvements</p>
+
+
+","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
+}
