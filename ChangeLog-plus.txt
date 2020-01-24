@@ -1,1 +1,3 @@
-{'ver1':'10', 'ver2':'45', 'ver3':'\n[تحديث مهم] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://www.azmods.co/2016/12/WhatsApp-plus.html'}
+{'ver1':'10', 'ver2':'45', 'ver3':'\n[تحديث مهم] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n
+\n[تحديث مهم] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n
+', 'dli':'https://www.azmods.co/2016/12/WhatsApp-plus.html'}
