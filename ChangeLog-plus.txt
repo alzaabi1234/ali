@@ -1,3 +1,1 @@
-{'ver1':'10', 'ver2':'45', 'ver3':'\n النسخة مبنية على اصدار 2.19.291
-اضافة خيار شكل الستوري مثل الانستقرام
-\n', 'dli':'https://www.azmods.co/2016/12/WhatsApp-plus.html'}
+{'ver1':'10', 'ver2':'45', 'ver3':'\n[تحديث مهم] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://www.azmods.co/2016/12/WhatsApp-plus.html'}
