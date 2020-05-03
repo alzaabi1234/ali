@@ -1,1 +1,19 @@
-{'ver1':'10', 'ver2':'40', 'ver3':'\n[تحديث مهم] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://www.azmods.co/2016/12/WhatsApp-plus.html'}
+{"version_code":850,"content":"
+
+<p>WhatsApp Plus v8.50</p>
+
+<li>تحديث جديد</li>
+<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
+<li> Improved lock UI (Pattern - PIN) And General Improvements</li>
+<li> Fixed Crush In The Chat Screen On Some Devices</li>
+<li> Fixed Option (Open WhatsApp.log)</li>
+<li> Fixed Option (Change WA Language)</li>
+<li> Fixed Option (Check For Update)</li>
+<li> Fixed Option (Change the Notifications Icon)</li>
+<li> Fixed Text Status Not Showing Font Style</li>
+<li> Fixed Status Download Issue (Download Previous Status)</li>
+<li> Fixed More Bug Fixes And Improvements!</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
+}
