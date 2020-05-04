@@ -1,6 +1,6 @@
-{"version_code":1060,"content":"
+{"version_code":1050,"content":"
 
-<p>WhatsApp Plus v10.60</p>
+<p>WhatsApp Plus v10.50</p>
 
 <li>تحديث جديد</li>
 <li>#خليك_فلبيت</li>
