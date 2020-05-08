@@ -13,5 +13,5 @@
 <li>Fixed Crush In The Chat Screen On Some Devices</li>
 <li> Many Other Features Discover It By Yourself!</li>
 
-","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
+","url":"https://www.azmods.co/2016/11/AZWhatsApp.html"
 }
