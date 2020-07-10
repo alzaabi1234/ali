@@ -1,4 +1,4 @@
-{"version_code":1050,"content":"
+{"version_code":1060,"content":"
 
 <p>WhatsApp Plus v10.50</p>
 
