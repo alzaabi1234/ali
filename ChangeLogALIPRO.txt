@@ -1,17 +1,1 @@
-{"version_code":1060,"content":"
-
-<p>WhatsApp Plus v10.50</p>
-
-<li>النسخة مبنية على اصدار 2.20.47</li>
-<li>إصلاح مكالمات المحادثات المخفية تظهر في شاشة المحادثات</li>
-<li>إصلاح إنهيار عند فتح الموقع / live location</li>
-<li>إصلاح الحاله النصيه لا يظهر ستايل الخط</li>
-<li>إصلاح حفظ الحالة</li>
-<li>والمزيد من الإصلاحات وتحسينات أخرى</li>
-<li>Base Update The Base To 2.20.47</li>
-<li>Improved lock UI (Pattern - PIN) And General Improvements</li>
-<li>Fixed Crush In The Chat Screen On Some Devices</li>
-<li> Many Other Features Discover It By Yourself!</li>
-
-","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
-}
+{'ver1':'10', 'ver2':'60', 'ver3':'\n• [Base Update] 2.20.199.14\n[Added] New attachment picker\n• [Added] Option to enable/disable new attachment UI (FMMods > Conversation)\n• [Added] Animation to new attachment\n• [Added] 5 Entries Style\n• [Added] 16 Bubble Style\n• [Added] 14 Ticks Style\n• [Added] "NEW" word next to new entries/ticks/bubbles\n• [Added] Option to Remove "Read More..." and show long messages completely\n• [Added] Option to change Online Toast Location (FMMods > Home)\n• [Fixed] One UI rotate issue\n• [Fixed] "Room" option in new attachment UI. If FB Messenger is not installed, the icon will switch to Camera.\n• [Fixed] Status tab has number. Changed to dot only\n• [Fixed] Unread counter issue (ex. calls)\n• [Fixed] Custom Wallpaper\n• [Fixed] Location attachment crash\n• [Fixed] Some crashes\n[Fixed] Other minor things\n• [Removed] "increase forward limit to 250" option\n• [Improved] Added note when downloading themes to check dark/light mode\n' , 'dli':'https://azmods.co', 'exp840':'1', 'exp845':'135'}
