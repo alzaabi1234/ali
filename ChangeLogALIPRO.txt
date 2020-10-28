@@ -1,0 +1,17 @@
+{"version_code":1060,"content":"
+
+<p>WhatsApp Plus v10.50</p>
+
+<li>النسخة مبنية على اصدار 2.20.47</li>
+<li>إصلاح مكالمات المحادثات المخفية تظهر في شاشة المحادثات</li>
+<li>إصلاح إنهيار عند فتح الموقع / live location</li>
+<li>إصلاح الحاله النصيه لا يظهر ستايل الخط</li>
+<li>إصلاح حفظ الحالة</li>
+<li>والمزيد من الإصلاحات وتحسينات أخرى</li>
+<li>Base Update The Base To 2.20.47</li>
+<li>Improved lock UI (Pattern - PIN) And General Improvements</li>
+<li>Fixed Crush In The Chat Screen On Some Devices</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://www.azmods.co/2016/12/WhatsApp-plus.html"
+}
