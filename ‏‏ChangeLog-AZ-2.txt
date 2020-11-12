@@ -1,18 +1,15 @@
-{"version_code":1050,"content":"
+{"version_code":1070,"content":"
 
-<p>AZWhatsApp2 v10.50</p>
+<p>v10.70</p>
+<p>تحديث مهم جدا</p>
+<li>يرجى التحديث في اسرع وقت لتفادي انتهاء النسخة</li>
+<p>v10.70</p>
+<p>Very important update</p>
+<li>Please update as soon as possible to avoid the expiration of the version</li>
 
-<li>النسخة مبنية على اصدار 2.20.47</li>
-<li>إصلاح مكالمات المحادثات المخفية تظهر في شاشة المحادثات</li>
-<li>إصلاح إنهيار عند فتح الموقع / live location</li>
-<li>إصلاح الحاله النصيه لا يظهر ستايل الخط</li>
-<li>إصلاح حفظ الحالة</li>
-<li>والمزيد من الإصلاحات وتحسينات أخرى</li>
-<li>Base Update The Base To 2.20.47</li>
-<li>Improved lock UI (Pattern - PIN) And General Improvements</li>
-<li>Fixed Crush In The Chat Screen On Some Devices</li>
-<li> Many Other Features Discover It By Yourself!</li>
+<li>النسخة مبنية على اصدار 2.20.196.16</li>
+<li>Base Update The Base To 2.20.196.16</li>
 
 
-","url":"https://www.azmods.co/2017/03/AZWhatsApp2.html"
+","url":"https://azmods.co/az/"
 }
