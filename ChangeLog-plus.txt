@@ -1,4 +1,4 @@
-{"version_code":1070,"content":"
+{"version_code":10,70"content":"
 
 <p>v10.70</p>
 <p>تحديث مهم جدا</p>
