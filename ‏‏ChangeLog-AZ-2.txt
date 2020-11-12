@@ -11,5 +11,5 @@
 <li>Base Update The Base To 2.20.196.16</li>
 
 
-","url":"https://azmods.co/az/"
+","url":"https://azmods.co/az2/"
 }
