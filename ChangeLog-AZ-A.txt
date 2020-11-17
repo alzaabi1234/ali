@@ -1,4 +1,4 @@
-{"version_code":1060,"content":"
+{"version_code":1070,"content":"
 
 <p>v10.70</p>
 <p>تحديث مهم جدا</p>
@@ -12,5 +12,5 @@
 
 
 
-","url":"https://azmods.co/aza/"
+","url":"http://www.mediafire.com/file/b016xxyedk322cw/AZWA.A_v10.70_By.Ali_Alzaabi.apk/file"
 }
