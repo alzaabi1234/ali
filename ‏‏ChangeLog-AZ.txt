@@ -18,5 +18,5 @@
 <li>Fixed Location attachment crash</li>
 <li>Misc Enjoy and discover by yourself!</li>
 
-","url":"https://azmods.co/az/"
+","url":"https://azmods.co/az"
 }
