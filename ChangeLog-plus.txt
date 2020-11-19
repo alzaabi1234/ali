@@ -1,14 +1,22 @@
-{"version_code":1070"content":"
+{"version_code":1080,"content":"
 
-<p>v10.70</p>
-<p>تحديث مهم جدا</p>
-<li>يرجى التحديث في اسرع وقت لتفادي انتهاء النسخة</li>
-<p>v10.70</p>
-<p>Very important update</p>
-<li>Please update as soon as possible to avoid the expiration of the version</li>
+<p>v10.80</p>
 
-<li>النسخة مبنية على اصدار 2.20.196.16</li>
-<li>Base Update The Base To 2.20.196.16</li>
+<li>النسخة مبنية على اصدار  2.20.199.14</li>
+<li>تم اضافة الميزات السابقة</li>
+<li>إضافة تصاميم جديدة لستايل حالات انستجرام</li>
+<li>إضافة تصميم جديد لطريقة اضافة حاله عبر ستايل انستجرام</li>
+<li>إضافة تصميم جديد لستايلات بار التنقل السفلي</li>
+<li>إصلاح مشكله عدم ظهور صورة بجانب فقاعه الوسائط في المجموعات</li>
+<li>تحسينات و اصلاحات اخرى</li>
 
-","url":"http://www.mediafire.com/file/ulkipssaasxcbca/WA%252B_v10.70_By.Ali_Alzaabi.apk/file"
+<li>Base Update 2.20.199.14</li>
+<li>Previous features have been added</li>
+<li>Added 5 Entries Style</li>
+<li>Added 16 Bubble Style</li>
+<li>Added Option to Remove "Read More..." and show long messages </li>
+<li>Fixed Location attachment crash</li>
+<li>Misc Enjoy and discover by yourself!</li>
+
+","url":"https://azmods.co/plus"
 }
