@@ -1,4 +1,4 @@
-{"version_code":1070,"content":"
+{"version_code":10.80,"content":"
 <p>10.80</p>
 
 <li>النسخة مبنية على اصدار  2.20.199.14</li>
@@ -8,6 +8,7 @@
 <li>إضافة تصميم جديد لستايلات بار التنقل السفلي</li>
 <li>إصلاح مشكله عدم ظهور صورة بجانب فقاعه الوسائط في المجموعات</li>
 <li>تحسينات و اصلاحات اخرى</li>
+
 <li>Base Update 2.20.199.14</li>
 <li>Previous features have been added</li>
 <li>Added 5 Entries Style</li>
