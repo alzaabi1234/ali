@@ -1,1 +1,1 @@
-{'ver1':'10', 'ver2':'70', 'ver3':'\n[تحديث مهم] يرجى تنزيل احدث اصدار 10.70 من واتساب بلس و تثبيته لتفادي انتهاء الواتساب | [Important Update] Please Download And Install Latest Version 10.70 To Keep Your WhatsApp Working Well\n', 'dli':'https://azmods.co/plus/'}
+{'ver1':'9', 'ver2':'00', 'ver3':'\n[تحديث مهم] يرجى تنزيل احدث اصدار 10.80 من واتساب بلس و تثبيته لتفادي انتهاء الواتساب | [Important Update] Please Download And Install Latest Version 10.80 To Keep Your WhatsApp Working Well\n', 'dli':'https://azmods.co/plus/'}
