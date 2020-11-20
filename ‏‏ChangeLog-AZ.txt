@@ -1,22 +1,11 @@
 {"version_code":1080,"content":"
-
-<p>v10.80</p>
+<p>10.80</p>
 
 <li>النسخة مبنية على اصدار  2.20.199.14</li>
 <li>تم اضافة الميزات السابقة</li>
-<li>إضافة تصاميم جديدة لستايل حالات انستجرام</li>
-<li>إضافة تصميم جديد لطريقة اضافة حاله عبر ستايل انستجرام</li>
-<li>إضافة تصميم جديد لستايلات بار التنقل السفلي</li>
-<li>إصلاح مشكله عدم ظهور صورة بجانب فقاعه الوسائط في المجموعات</li>
-<li>تحسينات و اصلاحات اخرى</li>
 
 <li>Base Update 2.20.199.14</li>
 <li>Previous features have been added</li>
-<li>Added 5 Entries Style</li>
-<li>Added 16 Bubble Style</li>
-<li>Added Option to Remove "Read More..." and show long messages </li>
-<li>Fixed Location attachment crash</li>
-<li>Misc Enjoy and discover by yourself!</li>
 
 ","url":"https://azmods.co/az"
 }
