@@ -1,11 +1,19 @@
-{"version_code":1080,"content":"
-<p>10.80</p>
+{"version_code":1090,"content":"
+<p>10.90</p>
 
-<li>النسخة مبنية على اصدار  2.20.199.14</li>
-<li>تم اضافة الميزات السابقة</li>
+<li>النسخة مبنية على اصدار 2.20.205.16</li>
+<li>تفعيل خيار الرسائل ذاتية الاختفاء</li>
+<li>دعم ارسال الوسائط في نظام اندرويد 11</li>
+<li>اضافة ضغطة طويلة على محتوي الستوري لنسخ المحتوى</li>
+<li>إصلاحات وتحسينات أخرى</li>
+<li>المزيد من المميزات استمتع واكتشف بنفسك</li>
 
-<li>Base Update 2.20.199.14</li>
+<li>Base Update 2.20.205.16</li>
+<li>Support for sending media in Android 11 system</li>
 <li>Previous features have been added</li>
+<li>Added Click on Status caption to copy</li>
+<li>Misc Many other fixes and improvements</li>
+<li>Misc Enjoy and discover by yourself</li>
 
 ","url":"https://azmods.co/az2"
 }
