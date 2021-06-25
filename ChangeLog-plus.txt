@@ -1,19 +1,19 @@
-{"version_code":1090,"content":"
-<p>10.90</p>
+{"version_code":1100,"content":"
+<p>11.00</p>
 
-<li>النسخة مبنية على اصدار 2.20.205.16</li>
-<li>تفعيل خيار الرسائل ذاتية الاختفاء</li>
-<li>دعم ارسال الوسائط في نظام اندرويد 11</li>
-<li>اضافة ضغطة طويلة على محتوي الستوري لنسخ المحتوى</li>
+<li>النسخة مبنية على الاصدار 2.21.7.14</li>
+<li>اصلاح تحميل الوسائط في نظام اندرويد 11</li>
+<li> إصلاح النسخ الاحتياطي الكامل الثابت لا يعمل على Android 11+</li>
+<li>إضافة خيارات جديدة لتنزيل الحالات (نسخ التسمية التوضيحية والمشاركة الخ....)</li>
 <li>إصلاحات وتحسينات أخرى</li>
 <li>المزيد من المميزات استمتع واكتشف بنفسك</li>
 
-<li>Base Update 2.20.205.16</li>
-<li>Support for sending media in Android 11 system</li>
-<li>Previous features have been added</li>
-<li>Added Click on Status caption to copy</li>
-<li>Misc Many other fixes and improvements</li>
-<li>Misc Enjoy and discover by yourself</li>
+<li> Update The Base To 2.21.7.14</li>
+<li> Fixed Full backup not working on Android 11+</li>
+<li> Added New options to download story (Copy caption - Share - etc.)</li>
+<li> Added Themes Store Dark/Light mode automatically</li>
+<li> Added Option to hide Privacy terms notice msg (Universal - Hide Privacy msg) You can hide it without accepting</li>
+<li> Many Other Features Discover It By Yourself!</li>
 
-","url":"https://azmods.co/plus"
+","url":"https://www.mediafire.com/file/x6te4tdy8gsh62c/%E2%80%8F%E2%80%8FWAPLUS_v11.00_By.Ali+Alzaabi.apk/file"
 }
