@@ -1,17 +1,16 @@
-{"version_code":1110,"content":"
-<p>11.10</p>
+{"version_code":1400,"content":"
+<p>14.00</p>
 
-<li>النسخة مبنية على اصدار 2.21.11.17</li>
-<li>إضافة برنامج جدولة الرسائل</li>
-<li>إضافة الرد التلقائي</li>
-<li>إضافة حفظ صورة الملف الشخصي</li>
-<li>والمزيد من الاضافات</li>
+<li>النسخة مبنيه على اصدار 2.21.19.21</li>
+<li>اضافة تنزيل  الصور/الفيديو المره الواحده</li>
+<li>اضافة عرض جميع الرسائل المرسلة بواسطة جهة الاتصال في المجموعة</li>
+<li>و المزيد من الاضافات المميزة</li>
+<li>اصلاحات و تحسينات اخرى </li>
 
-<li>Base Update 2.21.11.17</li>
-<li>Added Message Scheduler & Auto Reply</li>
-<li>Added Send And Open View Once Media</li>
-<li>Added Fast Playback For Voice Messages 1.5x To 2x</li>
+<li>Base Update</baseup> 2.21.21.17</li>
+<li>Added Download For View Once Images/Video</li>
+<li>Added View All Messages Sent By Contact In Group (Click On Name)</li>
 <li>Other fixes and improvements</li>
 
-","url":"https://www.mediafire.com/file/y9oyc611nqbksoq/WAPLUS_v11.10_By.Ali_Alzaabi.apk/file"
+","url":"https://www.mediafire.com/file/f4wuo927sc0rfes/WhatsApp_Plus_v14.apk/file"
 }
