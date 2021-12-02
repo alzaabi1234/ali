@@ -7,7 +7,7 @@
 <li>و المزيد من الاضافات المميزة</li>
 <li>اصلاحات و تحسينات اخرى </li>
 
-<li>Base Update</baseup> 2.21.21.17</li>
+<li>Base Update 2.21.21.17</li>
 <li>Added Download For View Once Images/Video</li>
 <li>Added View All Messages Sent By Contact In Group (Click On Name)</li>
 <li>Other fixes and improvements</li>
